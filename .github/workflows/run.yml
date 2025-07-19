@@ -8,7 +8,7 @@ on:
 
 jobs:
   build:
-    runs-on: currently-latest
+    runs-on: unbunt-latest
 
     strategy:
       matrix:
